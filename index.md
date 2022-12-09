@@ -2,13 +2,13 @@
 "lang": "en",
 "title": "Matt Ketkaroonkul",
 "subtitle": "Physics and (prospective) Astronomy Student",
-"adresses": ["University of Washington, Seattle, WA."],
+"addresses": ["University of Washington, Seattle, WA."],
 "description": "Website of Matt Ketkaroonkul"
 ---
 
 ### Abstract
 
-Hello! I am an undergraduate physics and (prospective) astronomy student at the University of Washington class of 2024. My interests lie in computational physics and plasmas.
+Hello! I am an undergraduate Physics and (prospective) Astronomy student at the University of Washington class of 2024. My interests lie in computational physics and plasmas, especially in nuclear fusion and astrophysics.
 
 ## Useful Links
 
