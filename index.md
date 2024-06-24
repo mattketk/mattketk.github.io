@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Hello! I am an undergraduate Physics and Astronomy student at the University of Washington, Seattle. Class of 2024. My research interests lie in computational physics and plasmas, especially in nuclear fusion and astrophysics.
+Hello! I am a Physics PhD Student at UCLA. My research interests lie in computational physics and plasmas, especially in nuclear fusion and astrophysics.
 
 ## Useful Links
 
